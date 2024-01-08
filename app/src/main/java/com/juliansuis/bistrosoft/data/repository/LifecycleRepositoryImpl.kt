@@ -1,6 +1,5 @@
 package com.juliansuis.bistrosoft.data.repository
 
-import androidx.lifecycle.LiveData
 import com.juliansuis.bistrosoft.data.dao.LifecycleEventDao
 import com.juliansuis.bistrosoft.data.entity.LifecycleEvent
 import com.juliansuis.bistrosoft.domain.repository.LifecycleRepository
